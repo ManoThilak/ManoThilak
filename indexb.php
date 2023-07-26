@@ -461,7 +461,7 @@
                 <div><span>!</span>
                 </div>
             </div>
-             <h1>c</h1>
+             <h1>Mano Thilak</h1>
 
         </div>
         <script>
@@ -474,5 +474,5 @@
         </script>
     <div class="">
 <img src="a.jpg" alt="Alagi" width="500" height="600">
-<img src="b.jpeg" alt="Alagi" width="500" height="600">
+<img src="a.jpg" alt="Alagi" width="500" height="600">
 </body></html>
